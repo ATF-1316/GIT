@@ -1,1 +1,3 @@
 se agrego una linea nuevo el 20/07
+
+se está editando esta linea desde github para luego actualizarlo en el repositorio global
